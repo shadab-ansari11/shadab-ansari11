@@ -1,56 +1,18 @@
-<p>
-  <h1 align="center"><b>Hi there, I'm Shadab Ansari! 👋</b></h1>
-</p>
-
-<p>
-  <h4 align="center"><b>Student || Web Developer || DevOps enthusiasts || Freelancer</b></h4>
-  <h6 align="center">Building <a href="https://newsr.vercel.app/">NewsR</a> </h6>
-</p>
-
-<p align="center">
-    <img alt="All Stars" src="https://visitor-badge.laobi.icu/badge?page_id=detronetdip.detronetdip&show_icons=true&include_all_commits=true&hide_border=true"/>&nbsp;
-<!--     <img src="https://img.shields.io/github/followers/detronetdip" alt="Facebook" /> -->
-    &nbsp;
-<!--     <img src="https://img.shields.io/github/stars/detronetdip" alt="Facebook" /> -->
-</p>
-
-<p align="center">
-<br>
-<!-- <a href="https://twitter.com/AyondipJ" target="_blank"><img src="https://img.shields.io/twitter/follow/AyondipJ?color=blue&label=Follow&logo=twitter&style=for-the-badge" alt="Facebook" /></a>&nbsp; -->
-<a href="mailto:shadab.ansari.web11@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/shadab-ansari-361a23216" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
-</p>
-
-<br>
-
-### I'm a student and self learned web developer
-
-- 🔭 I’m currently working on my problem solving skills.
-- 🌱 I’m currently learning MEAN and DevOps.
-- 👯 I’m looking to collaborate with other Developers. :raised_hands:
-- 💬 Ask me about anything, I'm happy to help! :smile:
-- 📬 How to reach me: [Drop me a text!][linkedin]
-- 📹 Let's connect! I'd love to know the kind of movie you watch.
-
-<br>
-
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=shadab-ansari11&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e&cache_seconds=1800" alt="detronetdip's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=detronetdip&show_icons=true&hide_border=true&theme=radical" width="37%" alt="detronetdip's Top Languages">
+# 💫 About Me:
+👋 Hey there, I'm Shadab Ansari  <br>💻 Frontend Developer | React.js & React Native<br>✨ I enjoy turning ideas into beautiful, responsive UI  <br>⚡ Skilled in: React, RN, Redux, JS, TS, MUI, Tailwind  <br>🚀 Always learning & improving my craft  <br>📫 Contact: shadab.ansari.web11@gmail.com<br>
 
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=detronetdip&theme=dark" alt="detronetdip's Github Streaks" width="70%">
-</div>
-<br>
-<h3 align="center">My Hacktoberfest badge board</h3>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shadab____11) 
 
-[![@detronetdip's Holopin board](https://holopin.io/api/user/board?user=detronetdip)](https://holopin.io/@detronetdip)
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=shadab-ansari11&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=shadab-ansari11&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shadab-ansari11&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<br>
+---
+[![](https://visitcount.itsvg.in/api?id=shadab-ansari11&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-
-[linkedin]: https://www.linkedin.com/in/shadab-ansari-361a23216
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
